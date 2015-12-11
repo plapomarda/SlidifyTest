@@ -1,2 +1,2 @@
 # SlidifyTest
-Learning Solidify
+Learning Slidify
